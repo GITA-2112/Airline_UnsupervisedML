@@ -1,7 +1,5 @@
 # Airline - Unsupervised Machine Learning (Clustering K-MEANS & PCA)
 
-## Performing an airline and passengers clustering analysis using K-means and PCA involves several steps. Below is a general outline of the process:
-
 ### 1. Collect the dataset
 ![image](https://github.com/GITA-2112/Airline_UnsupervisedML/assets/135007275/717f5737-27b6-4ca8-a800-2c776840e87b)
 
